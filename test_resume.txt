@@ -1,0 +1,26 @@
+Sara Ahmed
+NLP Engineer Intern
+Riyadh, Saudi Arabia
+Email: sara.ahmed@example.com
+
+WORK EXPERIENCE
+
+Data Analysis Intern
+Tech Solutions Company
+June 2024 to August 2024
+Worked with Python, SQL, and Excel to clean datasets, build dashboards, and present insights.
+
+EDUCATION
+
+Bachelor of Computer Science
+King Saud University
+2025
+
+SKILLS
+
+Python, NLP, BERT, Machine Learning, SQL, Data Analysis, Excel
+
+PROJECTS
+
+Resume Parser using BERT
+Built a resume parsing system that extracts skills, education, experience, and contact information from resumes.

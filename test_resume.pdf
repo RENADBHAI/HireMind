@@ -1,0 +1,89 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 791 >>
+stream
+BT
+/F1 12 Tf
+50 780 Td
+14 TL
+(Sara Ahmed) Tj
+T*
+(NLP Engineer Intern) Tj
+T*
+(Riyadh, Saudi Arabia) Tj
+T*
+(Email: sara.ahmed@example.com) Tj
+T*
+() Tj
+T*
+(WORK EXPERIENCE) Tj
+T*
+() Tj
+T*
+(Data Analysis Intern) Tj
+T*
+(Tech Solutions Company) Tj
+T*
+(June 2024 to August 2024) Tj
+T*
+(Worked with Python, SQL, and Excel to clean datasets, build dashboards, and present insights.) Tj
+T*
+() Tj
+T*
+(EDUCATION) Tj
+T*
+() Tj
+T*
+(Bachelor of Computer Science) Tj
+T*
+(King Saud University) Tj
+T*
+(2025) Tj
+T*
+() Tj
+T*
+(SKILLS) Tj
+T*
+() Tj
+T*
+(Python, NLP, BERT, Machine Learning, SQL, Data Analysis, Excel) Tj
+T*
+() Tj
+T*
+(PROJECTS) Tj
+T*
+() Tj
+T*
+(Resume Parser using BERT) Tj
+T*
+(Built a resume parsing system that extracts skills, education, experience, and contact information from resumes.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1153
+%%EOF
