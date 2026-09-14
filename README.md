@@ -4,6 +4,7 @@ HireMind is intelligence system that transforms unstructured resumes into struct
 <img width="669" height="380" alt="image" src="https://github.com/user-attachments/assets/757a2724-3103-45fc-ac00-9725e2bca3d0" />
 
 
+<img width="795" height="413" alt="image" src="https://github.com/user-attachments/assets/3f050d75-ef2d-4a85-9bbc-15c3a8782d22" />
 
 
 <img width="809" height="407" alt="image" src="https://github.com/user-attachments/assets/9f10fead-8221-459f-af02-7c43c37848f0" />
